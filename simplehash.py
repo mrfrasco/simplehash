@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import math
 hashcabinet_file = [
     'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
